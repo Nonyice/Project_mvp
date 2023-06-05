@@ -1,0 +1,1 @@
+Hello once more. There has been a long talk about this flask and how i can use it to build an app. Here is a prototype of my first flask app on an app built on python that is supposed to assign tasks and responsibilities to participants in a cooperation. feel free to peruse the app.
