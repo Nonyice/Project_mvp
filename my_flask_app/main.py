@@ -10,12 +10,12 @@ app=Flask(__name__)
 def home():
     return "Hey, welcome to Plimsoltech. kindly wait so we assign you to a task"
 
-@app.route("/about/")
+@app.route("/about")
 
 def about():
     return "Hello, this is a flask app supposedly a potfolio project for a successful completion of the SE program with ALX. My name is Software Engineer Emmnanuel Ibe and i was supposded to have been completing this project with some other two persons but i am here on it alone. i hope for more and a better collaborations next time."
 
-@app.route("/run-script/")
+@app.route("/run-script")
 
 def run_script():
     #call script function here
@@ -81,4 +81,4 @@ pat1.welcome()
 
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=8080, debug=True)
+    app.run(host="127.0.0.1", port=5000, debug=True)
