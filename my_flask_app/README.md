@@ -1,1 +1,33 @@
-Hello once more. There has been a long talk about this flask and how i can use it to build an app. Here is a prototype of my first flask app on an app built on python that is supposed to assign tasks and responsibilities to participants in a cooperation. feel free to peruse the app.
+PROJECT NAME: GROUP ASSIGNER
+
+INTRODUCTION:
+
+Hei, welcome to my project MVP. A web based app aimed at taking away the hasels of manual assignment of tasks and members in an organization.
+AUTHOR:
+
+EMMANUEL IBE
+Linkedin: 
+
+https://www.linkedin.com/in/emmanuel-ibe-62a1832b
+
+Blog Post: 
+
+https://www.linkedin.com/posts/emmanuel-ibe-62a1832b_title-my-first-flask-app-group-assigner-activity-7074523307701678080-0Rua?utm_source=share&utm_medium=member_android
+
+INSTALLATIONS:
+flask
+python3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
