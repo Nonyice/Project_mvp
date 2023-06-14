@@ -1,4 +1,4 @@
-#!/user/bin/env/python3
+#A new flask app
 from flask import Flask
 from participants import Participants
 
@@ -6,7 +6,7 @@ from participants import Participants
 app=Flask(__name__)
 
 @app.route("/")
-
+#Defining function
 def home():
     return "Hey, welcome to Plimsoltech. kindly wait so we assign you to a task"
 
@@ -21,7 +21,7 @@ def run_script():
     #call script function here
     result=my_function()
     return result
-
+#Main python script
 def my_function():
 
     class Participants:
